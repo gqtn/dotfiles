@@ -10,6 +10,8 @@ My configuration is:
 - Status bar: `polybar`
 - Theme: Arc-Dark [GTK2/3/4]
 
+---
+
 ### ❗Important
 This repository is still being created. Thanks for understanding.
 If you need any information, please open a issue.
