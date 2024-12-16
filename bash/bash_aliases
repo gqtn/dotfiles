@@ -1,0 +1,28 @@
+# +---+ Enjoy! :) +---+
+
+alias ls="lsd"
+alias ll="ls -lh"
+alias la="ls -lha"
+alias cat="bat"
+alias pcat="bat -p"
+
+alias figlet="figlet -f big"
+
+alias ffmpeg='ffmpeg -hide_banner'
+alias ffplay='ffplay -hide_banner'
+alias ffprobe='ffprobe -hide_banner'
+
+alias exa='exa --tree --level=1 --color=always --long --total-size --no-user --no-time --no-permissions --icons'
+
+alias mitmproxy='mitmproxy --showhost --set validate_inbound_headers=false'
+
+alias scan='nmap -sn'
+
+alias vpnon='nmcli connection up youcast'
+alias vpnoff='nmcli connection down youcast'
+
+
+alias por='trans -I -b :pt-BR'
+alias eng='trans -I -b :en'
+alias spa='trans -I -b :es'
+
