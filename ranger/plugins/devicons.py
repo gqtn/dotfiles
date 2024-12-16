@@ -1,0 +1,1 @@
+/home/quintana/.config/ranger/plugins/ranger_devicons/devicons.py

@@ -1,0 +1,41 @@
+[cursor]
+style = "Underline"
+
+[env]
+TERM = "xterm-256color"
+
+[font]
+size = 12
+
+[font.normal]
+family = "JetBrains Mono NL SemiBold"
+
+[[mouse.bindings]]
+action = "PasteSelection"
+mouse = "Right"
+
+[selection]
+save_to_clipboard = true
+
+[window]
+blur = true
+decorations = "Full"
+opacity = 0.8
+option_as_alt = "Both"
+
+[window.padding]
+x = 10
+y = 10
+
+[[keyboard.bindings]]
+action = "SpawnNewInstance"
+key = "Return"
+mods = "Control|Shift"
+
+[general]
+live_config_reload = true
+
+
+import = [
+    "~/.config/alacritty/themes/themes/alacritty_0_12.toml"
+]
