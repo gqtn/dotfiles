@@ -38,10 +38,13 @@ alias exa='exa \
 
 # Interesting
 alias figlet="figlet -f big"
+alias v='vim'
 alias tree='tree -C -L1 -h'
 alias clipb='xclip -selection clipboard -i'
 alias glow='glow -p'
 alias book='vim $HOME/clones/gqtn/book.md'
+alias duf='duf -style ascii -theme ansi -only local'
+alias yt-dlp='yt-dlp -o file.mp4'
 
 # Proxy configuration
 alias mitmproxy="mitmproxy \
